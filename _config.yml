@@ -1,4 +1,3 @@
-layout_spectrum: 0.32308862870559096
 typography_spectrum: 0.056441655615344644
 color:
   brandStrength: 0.4677341713104397
@@ -11,5 +10,7 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
+layout_spectrum: 0.32308862870559096
 name: Palmer Holmes Creative
 title: Creative
+description: Photographer • Art Director
